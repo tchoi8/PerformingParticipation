@@ -27,7 +27,23 @@ Perform participation in the public sphere, using technology to build commons be
 
 #### Topics 
 
-- 
+- Claire Bishop's presentation ["Participation and Spectacle: Where Are We Now?," Presented as part of Living as Form](https://vimeo.com/24193060) 
+- Nice summary of Bishop's lecture [Here](https://quigley.wordpress.com/2011/07/07/summary-of-%E2%80%9Cparticipation-and-spectacle%E2%80%9D-claire-bishop/)
+- The Social Turn: Collaboration and its discontent [Here in original layout](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/Art%20History/Claire%20Bishop/Social-Turn.pdf) [Here is text only](http://cam.usf.edu/CAM/exhibitions/2008_8_Torolab/Readings/The_Social_Turn_CBishop.pdf)
+
+- [39 Micro lectures](https://getit.library.nyu.edu/go/9385763) 
+- http://everyhousehasadoor.org/
+- [Liz Glynn](http://www.paulacoopergallery.com/exhibitions/liz-glynn-2015-09-12/press-release)
+- Pierre Hughes [Met](http://observer.com/2015/05/pierre-huyghe-on-why-he-chose-to-dig-up-the-mets-roof-garden/)
+
+- Lygia Clark [Moma](http://www.nytimes.com/2014/05/16/arts/design/lygia-clarks-many-twists-and-turns-at-moma.html#)
+- Isa Genzken [NYTimes](http://www.nytimes.com/2013/11/22/arts/design/isa-genzken-retrospective-at-museum-of-modern-art.html)
+
+- http://www.jnd.org/books.html
+- https://archive.org/stream/HannahArendtEssaysInUnderstanding19301954/[Hannah_Arendt]_Essays_in_Understanding,_1930-1954_djvu.txt
+- http://www.bam.org/satellitecollective?utm_source=Promo&utm_medium=Email&utm_content=2015_09_02_TWAB_Engaged&utm_campaign=RENTAL&sourceNumber=45840
+- http://www.nytimes.com/2014/03/16/magazine/basic-training-with-the-new-york-city-ballet.html#
+- http://www.newmuseum.org/calendar/view/chelsea-knight-fall-to-earth-world-premiere-screening
 
 
 ####1 Performance of everyday life
@@ -111,4 +127,8 @@ Assignment
 
 Create a list of activity that will trigger participation in massive crowd.
 
- 
+# Books
+
+- Participation. Claire Bishop https://getit.library.nyu.edu/go/9385701 
+- Performance theatre and the poetics of failure forced entertainment, Goat Island, elevator repair service Bailes, Sara Jane • 2010 https://getit.library.nyu.edu/go/9385704 
+- Donald Norman https://getit.library.nyu.edu/go/9385705 
