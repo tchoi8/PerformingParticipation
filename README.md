@@ -30,12 +30,13 @@ Perform participation in the public sphere, using technology as a medium to buil
 
 Happenings, Fluxus, Situations  
 
-- Participation. Claire Bishop [NYU](https://getit.library.nyu.edu/go/9385701) 
-- Performance theatre and the poetics of failure forced entertainment, Goat Island, elevator repair service Bailes, Sara Jane • 2010 [NYU](https://getit.library.nyu.edu/go/9385704) 
+- Artist is present [Marina Abramović](http://www.moma.org/interactives/exhibitions/2010/marinaabramovic/)
+- Participation. Claire Bishop [NYU](https://getit.library.nyu.edu/go/9385701)  
 - [Relational Aesthetics](https://en.wikipedia.org/wiki/Relational_art)
 - [Rirkrit Tiravanija](http://www.moma.org/explore/inside_out/2012/02/03/rirkrit-tiravanija-cooking-up-an-art-experience)
 - Community
 - [Roof is on Fire](http://www.suzannelacy.com/the-oakland-projects/)
+- [Suzanne Lacy](http://blog.art21.org/2012/11/13/5-questions-for-contemporary-practice-with-suzanne-lacy/#.VfcLl7xViko)
 - Ritual 
 - Site
 - Structure
@@ -45,7 +46,6 @@ Happenings, Fluxus, Situations
  
 - ["Society of the Spectacles"](https://www.marxists.org/reference/archive/debord/society.htm) by Guy Debord (1967)
 - ["Postscript on the Societies of Control"](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze (1992)
-- [Liz Glynn](http://www.paulacoopergallery.com/exhibitions/liz-glynn-2015-09-12/press-release)
 
 
 ####Community 
