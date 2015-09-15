@@ -23,6 +23,7 @@ Perform participation in the public sphere, using technology as a medium to buil
 Homework: Create a happening and program for the classroom. 
 
 Class activity: Happenings for 20 people in class
+[Pictures](https://www.flickr.com/photos/80913365@N04/albums/72157656035255054)
 
 Introduction to the class and topics. 
 
@@ -37,6 +38,8 @@ Happenings, Fluxus, Situations
 - [Roof is on Fire](http://www.suzannelacy.com/the-oakland-projects/)
 - [Suzanne Lacy](http://blog.art21.org/2012/11/13/5-questions-for-contemporary-practice-with-suzanne-lacy/#.VfcLl7xViko)
 - Topics: Spectacle, Ritual, Site, Institutional Structure, Community 
+
+
 
 **September 21** 
 
