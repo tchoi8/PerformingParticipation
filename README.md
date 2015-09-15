@@ -44,7 +44,7 @@ Happenings, Fluxus, Situations
 **September 21** 
 
 Homework: 
-Homework: Write a short response to the readings, focusing on one of the topics (spectacle, site, ritual, community, institutional structure) on your blog. Please post it online and email me the link by 9.20 Sunday. You might be unfamiliar with many of the art works that Claire Bishop mentions. Please search for them through search engines. [Art 21]()http://www.art21.org/) is also a good resource, if you'd like to learn about contemporary art in general. 
+Homework: Write a short response to the readings, focusing on one of the topics (spectacle, site, ritual, community, institutional structure) on your blog. Please post it online and email me the link by 9.20 Sunday. You might be unfamiliar with many of the art works that Claire Bishop mentions. Please search for them through search engines. [Art 21](http://www.art21.org/) is also a good resource, if you'd like to learn about contemporary art in general. 
 
  
 
