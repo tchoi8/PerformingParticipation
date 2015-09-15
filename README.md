@@ -44,7 +44,9 @@ Happenings, Fluxus, Situations
 **September 21** 
 
 Homework: 
-Write a short response to the readings, focusing on one of the topics (spectacle, site, ritual, community, institutional structure) on your blog. 
+Homework: Write a short response to the readings, focusing on one of the topics (spectacle, site, ritual, community, institutional structure) on your blog. Please post it online and email me the link by 9.20 Sunday. You might be unfamiliar with many of the art works that Claire Bishop mentions. Please search for them through search engines. [Art 21]()http://www.art21.org/) is also a good resource, if you'd like to learn about contemporary art in general. 
+
+ 
 
 Create a list of three movements and three speech, each instruction written in 140 characters or less. For example "crawl around like a crab, jump around to reach the moon, hide behind an object" and "say I'm very hungry very loudly, whisper I love you to someone to your right, call someone and tell them you are thinking about them" You don't need to print them, just bring them in a note to share with the class. We will use these as a material to create short performance pieces. 
 
@@ -52,7 +54,7 @@ Create a list of three movements and three speech, each instruction written in 1
 Reading:  
 
 - [Antagonism and Relational Aesthetics](http://www.teamgal.com/production/1701/SS04October.pdf) by Claire Bishop
-- [Postscript on the Societies of Control](https://github.com/tchoi8/PerformingParticipation/ControlSociety) by Gilles Deleuze
+- [Postscript on the Societies of Control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf) by Gilles Deleuze
 - [Roof is on Fire](http://www.suzannelacy.com/the-oakland-projects/) by Suzanne Lacy 
 
 **September 28** 
