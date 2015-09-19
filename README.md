@@ -61,6 +61,12 @@ Reading:
 
 ([Christine Sun Kim](http://christinesunkim.com/) visit)
 
+Reading: 
+
+- On participatory art, Interview with Claire Bishop [Text](https://www.scribd.com/doc/56968733/On-participatory-art-Interview-with-Claire-Bishop)
+- [The Gulch Between Knowledge and Experience: Thomas Hirschhorn’s Gramsci Monument](http://www.afterall.org/online/the-gulch-between-knowledge-and-experience_thomas-hirschhorn_s-gramsci-monument) by Kari Rittenbach 
+
+
 **October 5**
 
  ([Pierre Huyghe](http://www.metmuseum.org/exhibitions/listings/2015/pierre-huyghe) at the Met)
