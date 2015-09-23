@@ -15,6 +15,7 @@ Response to the reading
 - [Bret](http://www.brettstiller.com/itpblog/relational-aesthetics)
 - [Nick](http://www.ndhubbard.com/itp/community-participation/)
 - [Kevin](http://www.itp.kevings.com/category/performing-participation/)
+- [Chanyeon](http://www.changyeonlee.com/performing-participation/)
 
 
 Topic to continue focusing on 
@@ -35,9 +36,6 @@ Alternatives approaches in Antagonistic and Relational Art
 	- [Three views of a Mountain](https://apap.or.kr/en/three_views_of_a_mountain)
 
 
-
-For next week
-- tbd 
 
 Future readings
 

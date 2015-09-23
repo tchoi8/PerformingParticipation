@@ -15,7 +15,7 @@ Rirkrit Tiravanija
 - [Artist webpage at his gallery](https://www.gavinbrown.biz/artists/rirkrit_tiravanija/works)
 - [Rirkrit Tiravanija Cooking and Drawing Event at Art Basel 2011](https://www.youtube.com/watch?v=4CQsZ0AAheY)
 - [Rirkrit Tiravanija: Fear Eats the Soul at Gavin Brown's Enterprise](https://www.youtube.com/watch?v=Uz8HHU2Es_4)
-- [ARTILLERY PRESENTS: RIRKRIT TIRAVANIJA](https://www.youtube.com/watch?v=I8QVjTCnJCc)
+- [ARTILLERY PRESENTS: RIRKRIT TIRAVANIJA](https://www.youtube.com/watch?v=I8QVjTCnJCc) 
 - [ABSOLUT ART AWARDS - RIRKRIT TIRAVANIJA](https://www.youtube.com/watch?v=vtAFxQ8yIf8)
 - The Land Kickstarter campaign [Link](https://www.kickstarter.com/projects/2016983975/the-studio-residency-at-the-land/description)
 
@@ -44,7 +44,7 @@ Thomas Hirschorn
 
 - [Art 21](http://www.art21.org/artists/thomas-hirschhorn)
 - [The Gulch Between Knowledge and Experience: Thomas Hirschhorn’s Gramsci Monument](http://www.afterall.org/online/the-gulch-between-knowledge-and-experience_thomas-hirschhorn_s-gramsci-monument/) by Kari Rittenbach 
-- [Recemt show](http://www.telegraph.co.uk/luxury/art/79822/thomas-hirschhorn%E2%80%99s-destructive-details.html)
+- [Recent show](http://www.telegraph.co.uk/luxury/art/79822/thomas-hirschhorn%E2%80%99s-destructive-details.html) Thomas Hirschhorn’s destructive details 
 
 
 Nicholas Bourriad 

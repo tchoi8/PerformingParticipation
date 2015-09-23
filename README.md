@@ -43,12 +43,9 @@ Happenings, Fluxus, Situations
 
 **September 21** 
 
-Homework: 
-Homework: Write a short response to the readings, focusing on one of the topics (spectacle, site, ritual, community, institutional structure) on your blog. Please post it online and email me the link by 9.20 Sunday. You might be unfamiliar with many of the art works that Claire Bishop mentions. Please search for them through search engines. [Art 21](http://www.art21.org/) is also a good resource, if you'd like to learn about contemporary art in general. 
+Reading and response assignment:
 
- 
-
-Create a list of three movements and three speech, each instruction written in 140 characters or less. For example "crawl around like a crab, jump around to reach the moon, hide behind an object" and "say I'm very hungry very loudly, whisper I love you to someone to your right, call someone and tell them you are thinking about them" You don't need to print them, just bring them in a note to share with the class. We will use these as a material to create short performance pieces. 
+Write a short response to the readings, focusing on one of the topics (spectacle, site, ritual, community, institutional structure) on your blog. Please post it online and email me the link by 9.20 Sunday. You might be unfamiliar with many of the art works that Claire Bishop mentions. Please search for them through search engines. [Art 21](http://www.art21.org/) is also a good resource, if you'd like to learn about contemporary art in general. 
 
 
 Reading:  
@@ -57,19 +54,50 @@ Reading:
 - [Postscript on the Societies of Control](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf) by Gilles Deleuze
 - [Roof is on Fire](http://www.suzannelacy.com/the-oakland-projects/) by Suzanne Lacy 
 
+[Companion](https://github.com/tchoi8/PerformingParticipation/blob/master/companion1.md) to the readings.  
+
+Create a list of three movements and three speech, each instruction written in 140 characters or less. For example "crawl around like a crab, jump around to reach the moon, hide behind an object" and "say I'm very hungry very loudly, whisper I love you to someone to your right, call someone and tell them you are thinking about them" You don't need to print them, just bring them in a note to share with the class. We will use these as a material to create short performance pieces. 
+
+
+
 **September 28** 
 
-([Christine Sun Kim](http://christinesunkim.com/) visit)
+Reading and response assignment:
 
-Reading: 
-
-- On participatory art, Interview with Claire Bishop [Text](https://www.scribd.com/doc/56968733/On-participatory-art-Interview-with-Claire-Bishop)
 - [The Gulch Between Knowledge and Experience: Thomas Hirschhorn’s Gramsci Monument](http://www.afterall.org/online/the-gulch-between-knowledge-and-experience_thomas-hirschhorn_s-gramsci-monument) by Kari Rittenbach 
+- Critical Vehicle by Krzysztof Wodiczko 104~117 
+- Excerpt from [Relational Aesthetics](http://post.thing.net/files/relationalaesthetics.pdf) by Nicolas Bourriaud 
+- Christine Sun Kim [interview](http://coronagraph.pastelegram.org/Christine-Sun-Kim-with-Jeffrey-Mansfield) with Jeffrey Mansfield
+
+Please write a response on the readings in 500 words or less. 
+ 
+- Possible topics to focus: Interface, Speech, Space, Community 
 
 
+Performance assignment: 
+
+To continue our discussion about openness, emancipation and democracy in art and performance, I'd like to ask you to create  
+
+Recipe for Utopia
+
+- A list of 10 prompts for your idea of Utopia. 
+- Utopia in this recipe is a community in near perfect qualities. 
+- Each prompt needs to be 140 characters or less.  
+
+We will use these recipe in class to create participatory piece in small groups.  
+
+
+In class 
+  
+####[Christine Sun Kim](http://christinesunkim.com/) visit at 4pm with Denise Kahler-Braaten (ASL interpreter). 
+ 
+
+ 
 **October 5**
 
- ([Pierre Huyghe](http://www.metmuseum.org/exhibitions/listings/2015/pierre-huyghe) at the Met)
+- [Pierre Huyghe](http://www.metmuseum.org/exhibitions/listings/2015/pierre-huyghe) at the Met
+- Pierre Hughye [video](http://www.art21.org/artists/pierre-huyghe)
+- The Prospects of "Freed" Time [link](http://www.tandfonline.com/doi/full/10.1080/21502552.2013.818454)
 
 **Tues, Oct.13**
 
