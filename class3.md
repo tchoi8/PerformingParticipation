@@ -11,6 +11,7 @@ Reading responses
 - Cici : [Body in space](http://blog.liuchangitp.com/body-in-space/)
 - Joanna [Sensing the Image, Smelling the Sound](https://wp.nyu.edu/iamjoanna/2015/09/27/sensing-the-image-smelling-the-sound/)
 - Sehyun: [Response](http://avatitp.tumblr.com/post/130024196517/performing-participation-3-response)
+- Ishan: [Interfaces in Art](http://ishaanchaudhary.com/2015/09/28/interfaces-in-art/)
 
 Discussion topics
 
@@ -34,6 +35,9 @@ Recipe for Utopia
 Reference 
 
 - [Utopia Station](http://www.e-flux.com/projects/utopia/)
-- [For a Functional Utopia, Liam Gillick ](http://www.liamgillick.info/home/texts/for-a-functional-utopia)
+	- [For a Functional Utopia, Liam Gillick ](http://www.liamgillick.info/home/texts/for-a-functional-utopia)
+	- [Interesting response](http://part-archive.finitude.org/part12/articles/harren.html)
+	- [Video](https://www.youtube.com/watch?v=Ww_RZ-PyYrc)
+- [The Open Utopia](http://theopenutopia.org/)
 
 
