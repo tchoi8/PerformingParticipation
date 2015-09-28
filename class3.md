@@ -10,6 +10,7 @@ Reading responses
 - Brett : [Speech & Space & Community](http://www.brettstiller.com/itpblog/speech-space-community)
 - Cici : [Body in space](http://blog.liuchangitp.com/body-in-space/)
 - Joanna [Sensing the Image, Smelling the Sound](https://wp.nyu.edu/iamjoanna/2015/09/27/sensing-the-image-smelling-the-sound/)
+- Sehyun: [Response](http://avatitp.tumblr.com/post/130024196517/performing-participation-3-response)
 
 Discussion topics
 
