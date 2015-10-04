@@ -12,6 +12,10 @@ Reading responses
 - Joanna [Sensing the Image, Smelling the Sound](https://wp.nyu.edu/iamjoanna/2015/09/27/sensing-the-image-smelling-the-sound/)
 - Sehyun: [Response](http://avatitp.tumblr.com/post/130024196517/performing-participation-3-response)
 - Ishan: [Interfaces in Art](http://ishaanchaudhary.com/2015/09/28/interfaces-in-art/)
+- Nick: [Sound as social currency](http://www.ndhubbard.com/itp/participation-response-2/)
+- Song: [Thomas Hirschhorn’s Gramsci monument + Mindsets about the future](http://www.songhitp.com/?p=793)
+
+
 
 Discussion topics
 
