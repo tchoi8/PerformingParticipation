@@ -8,13 +8,14 @@ Student responses
 - Kevin: [Performance of Utopia](http://www.itp.kevings.com/performance-of-utopia/)
 - Song: [Planning Utopia](http://www.songhitp.com/?p=806)
 - Natalia: [Performing an Utopia](http://www.nataliacabrera.com/itp/2015/10/03/performing-an-utopia/)
+- Nick :[utopia: without choice](http://nickbratton.com/?p=1778)
 
 **Performance for Utopia**
 
 - Four groups presentation. Each group 10~15 minutes. Live happening or documentation.
 - Discussions about the performances, process and documentation. 
 
-Other random food for thoughts. 
+Food for thoughts. 
 
 - [World Game](https://en.wikipedia.org/wiki/World_Game)
 - [The Art of Management](http://avant.org/media/art-of-management)
@@ -23,9 +24,16 @@ Other random food for thoughts.
 
 **Lecture** 
 
-Short history of Performance Art by [Frank Skinner](https://www.youtube.com/watch?v=CAz6a5FwZJQ)
+On this lecture, we will continue to think about participation and relation in contemporary art by focusing on two symbolic artists.  New topics for discussions include following themes. 
 
-Joseph Beuys' [Social sculptures](https://en.wikipedia.org/wiki/Social_sculpture)
+- Body
+- Documentation
+- Re-enactment
+- Myth, mystery and hope 
+ 
+
+**Joseph Beuys**
+
 
 ![](http://m.blog.hu/ca/casestudiesforeducationalturn/image/Beuys_DirectDemocracy.jpg)
 
@@ -34,6 +42,8 @@ The Bureau for Direct Democracy, 1972
 Read Joseph Beuys and Dirk Schwarze[Report on a Day's Proceedings at the Bureau for Direct Democracy](http://beforebefore.net/196c/s15/media/beuys_in_participation.pdf), 1972
 
 [Class Action](http://www.frieze.com/issue/article/class_action/) on Frieze, Sept 2006. 
+
+Joseph Beuys' [Social sculptures](https://en.wikipedia.org/wiki/Social_sculpture)
 
 [One of Many](http://www.walkerart.org/collections/publications/art-expanded/one-of-many-joseph-beuys/) The Multiples of Joseph Beuys by Maja Wismer, 2015
 
@@ -91,11 +101,7 @@ Lygia Clark’s proposition Rede de elásticos (Elastic net), 1974. Shown in us
 [XYZ](http://www.sharjahart.org/blog/2015/april/xyz)
 [Artist in conversation](http://www.sharjahart.org/exhibitions-events/past-events-2014/october/sb12-associate-curator-ryan-inouye-in-conversation)
 
-**Discussion topics**
+Short history of Performance Art by [Frank Skinner](https://www.youtube.com/watch?v=CAz6a5FwZJQ)
 
-- Body
-- Documentation
-- Re-enactment
-- Myth, mystery and hope 
 
 Bootleg of Partipation [book](http://monoskop.org/images/b/b1/Bishop_Claire_ed_Participation.pdf)
