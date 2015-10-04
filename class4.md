@@ -11,7 +11,14 @@ Student responses
 **Performance for Utopia**
 
 - Four groups presentation. Each group 10~15 minutes. Live happening or documentation.
-- Discussions about 
+- Discussions about the performances, process and documentation. 
+
+Other random food for thoughts. 
+
+- [World Game](https://en.wikipedia.org/wiki/World_Game)
+- [The Art of Management](http://avant.org/media/art-of-management)
+- [Welcome to Integration](http://www.nytimes.com/interactive/2014/08/20/style/tmagazine/welcome-to-the-integratron.html?_r=0)
+- [10 Failed Utopian Cities That Influenced the Future](http://io9.com/10-failed-utopian-cities-that-influenced-the-future-1511695279)
 
 **Lecture** 
 
@@ -23,11 +30,11 @@ Joseph Beuys' [Social sculptures](https://en.wikipedia.org/wiki/Social_sculpture
 
 The Bureau for Direct Democracy, 1972 
 
-Read Joseph Beuys and Dirk Schwarze[Report on a Day's Proceedings at the Bureau for Direct Democracy](http://beforebefore.net/196c/s15/media/beuys_in_participation.pdf)// 1972
+Read Joseph Beuys and Dirk Schwarze[Report on a Day's Proceedings at the Bureau for Direct Democracy](http://beforebefore.net/196c/s15/media/beuys_in_participation.pdf), 1972
 
 [Class Action](http://www.frieze.com/issue/article/class_action/) on Frieze, Sept 2006. 
 
-[One of Many](http://www.walkerart.org/collections/publications/art-expanded/one-of-many-joseph-beuys/) The Multiples of Joseph Beuys by Maja Wismer // 2015
+[One of Many](http://www.walkerart.org/collections/publications/art-expanded/one-of-many-joseph-beuys/) The Multiples of Joseph Beuys by Maja Wismer, 2015
 
 
 [The Boss: On the Unresolved Question of Authority in Joseph Beuys’ Oeuvre and Public Image](http://www.e-flux.com/journal/the-boss-on-the-unresolved-question-of-authority-in-joseph-beuys%E2%80%99-oeuvre-and-public-image/) by Jan Verwoert
@@ -57,9 +64,9 @@ Lygia Clark’s proposition Rede de elásticos (Elastic net), 1974. Shown in us
 
 [Diálogo de Mãos](https://www.youtube.com/watch?v=lUO7yJ4dSHs) [Another video](https://www.youtube.com/watch?v=QSwsPjaBT68)
 
-Rede de Elasticos :[video](https://www.youtube.com/watch?v=eLBtgVDs3qs)
+[Rede de Elasticos](https://www.youtube.com/watch?v=eLBtgVDs3qs)
 
-Corpo Coletivo : [video](https://www.youtube.com/watch?v=GlZbO_TYwW0)
+[Corpo Coletivo](https://www.youtube.com/watch?v=GlZbO_TYwW0)
 
 [Canibalismo](https://www.youtube.com/watch?v=jTcnMeVBbns)
 
