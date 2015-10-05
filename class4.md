@@ -8,7 +8,11 @@ Student responses
 - Kevin: [Performance of Utopia](http://www.itp.kevings.com/performance-of-utopia/)
 - Song: [Planning Utopia](http://www.songhitp.com/?p=806)
 - Natalia: [Performing an Utopia](http://www.nataliacabrera.com/itp/2015/10/03/performing-an-utopia/)
-- Nick :[utopia: without choice](http://nickbratton.com/?p=1778)
+- Nick : [Utopia: without choice](http://nickbratton.com/?p=1778)
+- Ishan: [Utopia: The Multitude](http://ishaanchaudhary.com/2015/10/04/utopia-the-multitude/)
+- Liu: [Be Suspicious of Utopia](http://blog.liuchangitp.com/thoughts-about-uptopia/)
+- Sergio: [Crafting Utopias](http://itp.smorad.com/2015/10/crafting-utopias/)
+- AV: [create an Utopia](http://avatitp.tumblr.com/post/130514218132/create-an-utopia)
 
 **Performance for Utopia**
 
