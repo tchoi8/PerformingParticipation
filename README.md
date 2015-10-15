@@ -3,19 +3,18 @@ Class by Taeyoon Choi at NYU ITP, Fall 2015
 
 Is there a script behind our participation in everyday events? What are the factors that are engineered into human experience? This class will explore the codes of participation embedded in technological spectacle of daily life by staging experimental happenings. Happening, a term coined by a performance artist Allan Kaprow in the 50s, transforms space as an interface for unconventional situations to occur and a site of confrontation and stimulation. Contemporary performance artists create work outside the division of staged and timed events, toward art work that seeks to establish sense of affect and presence. This class will explore participation as an artistic medium to create an unconventional performance art piece. The classes will be split between 40% lecture and 60% student participation through physical activities. 
 
-####Learning outcome: 
+*Learning outcome:* 
 
 Become confident improvising in unexpected situation. Create series of happenings with instruction and documentation. 
 
-####Objective: 
+*Objective:* 
 
 Interpret the meaning of participation we perform in daily life, consumption and communication. 
 
 Perform participation in the public sphere, using technology as a medium to build commons between individuals.
 
 
-#### Schedule: 
-
+ 
 
 
 #Class 1: September 14  
@@ -24,13 +23,14 @@ Homework: Create a happening and program for the classroom.
 
 Introduction to the class and topics. 
 
-Lecture: Performance of everyday life
-Happenings, Fluxus, Situations  
 
 Class activity: Happenings for 20 people in class
 [Pictures](https://www.flickr.com/photos/80913365@N04/albums/72157656035255054)
  
 ![](https://c1.staticflickr.com/1/763/21248970880_d2e17ba2af_b.jpg)
+
+Lecture: Performance of everyday life
+Happenings, Fluxus, Situations  
 
 - Artist is present [Marina Abramović](http://www.moma.org/interactives/exhibitions/2010/marinaabramovic/)
 - [Relational Aesthetics](https://en.wikipedia.org/wiki/Relational_art)
@@ -56,7 +56,8 @@ Reading:
 
 [Companion](https://github.com/tchoi8/PerformingParticipation/blob/master/companion1.md) to the readings.  
 
-Create a list of three movements and three speech, each instruction written in 140 characters or less. For example "crawl around like a crab, jump around to reach the moon, hide behind an object" and "say I'm very hungry very loudly, whisper I love you to someone to your right, call someone and tell them you are thinking about them" You don't need to print them, just bring them in a note to share with the class. We will use these as a material to create short performance pieces. 
+
+Assignment: Create a list of three movements and three speech, each instruction written in 140 characters or less. For example "crawl around like a crab, jump around to reach the moon, hide behind an object" and "say I'm very hungry very loudly, whisper I love you to someone to your right, call someone and tell them you are thinking about them" You don't need to print them, just bring them in a note to share with the class. We will use these as a material to create short performance pieces. 
 
 ![](https://c1.staticflickr.com/1/638/21654434795_880f2af94d_b.jpg)
 
@@ -103,23 +104,23 @@ Future readings
 - Pierre Hughye [video](http://www.art21.org/artists/pierre-huyghe)
 - The Prospects of "Freed" Time [link](http://www.tandfonline.com/doi/full/10.1080/21502552.2013.818454)
 - Miwon Kwon, One place after another (excerpts on Suzanne Lacy)
-
 - Bad New Days: Art, Criticism, Emergency by Hal Foster review – what's new in the art world? [Link](http://www.theguardian.com/books/2015/sep/03/bad-new-days-art-criticism-emergency-hal-foster-review)
-- Artificial Hell 
+ 
 
 
 #Class 3: September 28 
 
-Reading and response assignment:
+Readings:
 
 - [The Gulch Between Knowledge and Experience: Thomas Hirschhorn’s Gramsci Monument](http://www.afterall.org/online/the-gulch-between-knowledge-and-experience_thomas-hirschhorn_s-gramsci-monument) by Kari Rittenbach 
 - Critical Vehicle by Krzysztof Wodiczko 104~117 
 - Excerpt from [Relational Aesthetics](http://post.thing.net/files/relationalaesthetics.pdf) by Nicolas Bourriaud 
 - Christine Sun Kim [interview](http://coronagraph.pastelegram.org/Christine-Sun-Kim-with-Jeffrey-Mansfield) with Jeffrey Mansfield
 
+Assignments:
+
 Please write a response on the readings in 500 words or less. 
- 
-- Possible topics to focus: Interface, Speech, Space, Community 
+Possible topics to focus: Interface, Speech, Space, Community 
 
 
 Performance assignment: 
@@ -133,9 +134,6 @@ Recipe for Utopia
 - Each prompt needs to be 140 characters or less.  
 
 We will use these recipe in class to create participatory piece in small groups.  
-
-
-Class 3
 
 Reading responses 
 
@@ -152,8 +150,6 @@ Reading responses
 - Nick: [Sound as social currency](http://www.ndhubbard.com/itp/participation-response-2/)
 - Song: [Thomas Hirschhorn’s Gramsci monument + Mindsets about the future](http://www.songhitp.com/?p=793)
 
-
-
 Discussion topics
 
 - Space
@@ -165,6 +161,8 @@ Visiting lecture
 
 - [Christine Sun Kim](http://christinesunkim.com/) 
 - Denise Kahler-Braaten (ASL Interpreter)
+
+![](https://c2.staticflickr.com/6/5627/22006757230_4b3f2c6f5c_b.jpg)
 
 Recipe for Utopia
 
@@ -181,8 +179,6 @@ Reference
 	- [Video](https://www.youtube.com/watch?v=Ww_RZ-PyYrc)
 - [The Open Utopia](http://theopenutopia.org/)
 
-
- 
  
 #Class 4: October 5
 
@@ -226,20 +222,22 @@ On this lecture, we will continue to think about participation and relation in c
 - Re-enactment
 - Myth, mystery and hope 
  
-[Slides](https://speakerdeck.com/tchoi8/performing-participations-number-4)
-
-More reference
-
-- [Pierre Huyghe](http://www.metmuseum.org/exhibitions/listings/2015/pierre-huyghe) at the Met
-- Pierre Hughye [video](http://www.art21.org/artists/pierre-huyghe)
-- The Prospects of "Freed" Time [link](http://www.tandfonline.com/doi/full/10.1080/21502552.2013.818454)
-
-
-
+Taeyoon's [Slides](https://speakerdeck.com/tchoi8/performing-participations-number-4)
+ 
 #Class 5: Tues, Oct.13 
 
+####Assignment 
+- Create a re-enactment or recreation of a work by Joseph Beuys or Lygia Clark. Research about their work and find a piece that inspires you. 
+- The piece needs to be presented in 10 minutes or shorter. 
+- The piece needs to be a solo work that is participatory.  
+- Make a blog posting about your re-enactment by Monday 6pm. You can complete the posting after the class with documentation. However, please send a posting with a plan by Monday for me to prepare to give feedback. 
 
-###Student postings
+Required readings. 
+
+- Lygia Clark and Hélio Oiticica Letters//1968–69  pg 110-116
+- Joseph Beuys and Dirk Schwarze Report on a Day’s Proceedings at the Bureau for Direct Democracy//1972 + Joseph Beuys, I am searching for field character pg 120-126  
+
+###Student responses
 
 - [Changyeon](http://www.changyeonlee.com/performing-participation/2015/10/11/re-enactment-social-sculpture)
 - [AV](http://avatitp.tumblr.com/post/131060683377/why-explain-pictures-to-a-dead-hare)
@@ -253,7 +251,7 @@ More reference
 - [Cici](http://blog.liuchangitp.com/reification/)
 - [Yifan](http://yifantasy.com/?p=887)
 - Natalia 
-- Sergio
+- [Sergio](http://itp.smorad.com/2015/10/re-enacting-lygia-clark/)
 
 ###Assignment for Class 5 
 
