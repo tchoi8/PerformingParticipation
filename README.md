@@ -18,19 +18,19 @@ Perform participation in the public sphere, using technology as a medium to buil
 
 
 
-**September 14** 
+#Class 1: September 14  
 
 Homework: Create a happening and program for the classroom. 
 
-Class activity: Happenings for 20 people in class
-[Pictures](https://www.flickr.com/photos/80913365@N04/albums/72157656035255054)
-
 Introduction to the class and topics. 
 
-
 Lecture: Performance of everyday life
-
 Happenings, Fluxus, Situations  
+
+Class activity: Happenings for 20 people in class
+[Pictures](https://www.flickr.com/photos/80913365@N04/albums/72157656035255054)
+ 
+![](https://c1.staticflickr.com/1/763/21248970880_d2e17ba2af_b.jpg)
 
 - Artist is present [Marina Abramović](http://www.moma.org/interactives/exhibitions/2010/marinaabramovic/)
 - [Relational Aesthetics](https://en.wikipedia.org/wiki/Relational_art)
@@ -41,7 +41,7 @@ Happenings, Fluxus, Situations
 
 
 
-**September 21** 
+#Class 2: September 21 
 
 Reading and response assignment:
 
@@ -58,9 +58,57 @@ Reading:
 
 Create a list of three movements and three speech, each instruction written in 140 characters or less. For example "crawl around like a crab, jump around to reach the moon, hide behind an object" and "say I'm very hungry very loudly, whisper I love you to someone to your right, call someone and tell them you are thinking about them" You don't need to print them, just bring them in a note to share with the class. We will use these as a material to create short performance pieces. 
 
+![](https://c1.staticflickr.com/1/638/21654434795_880f2af94d_b.jpg)
+
+Response to the reading 
+
+- [Cici](http://blog.liuchangitp.com/reading-response-spectacle-in-specific-site/)
+- [Li Mu](http://www.iamlimu.org/default.asp?viewType=byCate&cateID=14) 
+- [Sergio](http://itp.smorad.com/2015/09/on-art-community-and-institutional-structure/) 
+- [Joanna](https://wp.nyu.edu/iamjoanna/2015/09/20/spectacle/)
+	- [YR response to JD](http://blogs.artinfo.com/artintheair/2011/11/11/read-the-full-text-of-yvonne-rainers-letter-denouncing-marina-abramovics-la-moca-gala/?ncid=edlinkusaolp00000008)
+	- [Cinema of attraction](http://www.columbia.edu/itc/film/gaines/historiography/Gunning.pdf)
+- [Song](http://www.songhitp.com/?p=779)
+	- [Net is not Panopticon](https://medium.com/@dweinberger/the-net-is-not-a-panopticon-239b5f939138)
+	- [We are all marketers](http://www.mckinsey.com/insights/marketing_sales/were_all_marketers_now)
+- [Ishaan](http://ishaanchaudhary.com/2015/09/20/relational-aesthetics/)
+- [Ava](http://www.imavahuang.com/?p=1130)
+- [Nicholas](http://nickbratton.com/?p=1732)
+- [Bret](http://www.brettstiller.com/itpblog/relational-aesthetics)
+- [Nick](http://www.ndhubbard.com/itp/community-participation/)
+- [Kevin](http://www.itp.kevings.com/category/performing-participation/)
+- [Chanyeon](http://www.changyeonlee.com/performing-participation/)
 
 
-**September 28** 
+Topic to continue focusing on 
+
+- Spectacle 
+- Site 
+
+
+Alternatives approaches in Antagonistic and Relational Art
+
+- Krzysztof Wodiczko 
+	- [Krzysztof Wodiczko in "Power"](http://www.art21.org/videos/segment-krzysztof-wodiczko-in-power)
+	- Crticial Vehicle [link](http://monoskop.org/images/8/86/Wodiczko_Krzysztof_Critical_Vehicles_Writings_Projects_Interviews.pdf)  
+
+- [Conflict Kitchen](https://www.youtube.com/watch?v=U3gZeoE0goo)
+	- [Website](http://conflictkitchen.org/)
+	- [Conflict Kitchen](https://www.youtube.com/watch?v=iQ-dm6Lec5M)
+	- [Three views of a Mountain](https://apap.or.kr/en/three_views_of_a_mountain)
+
+
+Future readings
+
+- Pierre Hughye [video](http://www.art21.org/artists/pierre-huyghe)
+- The Prospects of "Freed" Time [link](http://www.tandfonline.com/doi/full/10.1080/21502552.2013.818454)
+- Miwon Kwon, One place after another (excerpts on Suzanne Lacy)
+
+- Bad New Days: Art, Criticism, Emergency by Hal Foster review – what's new in the art world? [Link](http://www.theguardian.com/books/2015/sep/03/bad-new-days-art-criticism-emergency-hal-foster-review)
+- Artificial Hell 
+
+
+#Class 3: September 28 
 
 Reading and response assignment:
 
@@ -87,26 +135,157 @@ Recipe for Utopia
 We will use these recipe in class to create participatory piece in small groups.  
 
 
-In class 
-  
-####[Christine Sun Kim](http://christinesunkim.com/) visit at 4pm with Denise Kahler-Braaten (ASL interpreter). 
- 
+Class 3
+
+Reading responses 
+
+- Ava: [Is Art somehow being exclusive?](http://www.imavahuang.com/?p=1166) 
+- Nick: [Medium, form, sound and relational aesthetics](http://nickbratton.com/?p=1744)
+- Changyoung: [Formation and Dialogue](http://www.changyeonlee.com/performing-participation/2015/9/27/formation-and-dialogue)
+- Sergio: [What if...?](http://itp.smorad.com/2015/09/what-if/)
+- Kevin : [Art as manipulation](http://www.itp.kevings.com/art-as-manipulation/)
+- Brett : [Speech & Space & Community](http://www.brettstiller.com/itpblog/speech-space-community)
+- Cici : [Body in space](http://blog.liuchangitp.com/body-in-space/)
+- Joanna [Sensing the Image, Smelling the Sound](https://wp.nyu.edu/iamjoanna/2015/09/27/sensing-the-image-smelling-the-sound/)
+- Sehyun: [Response](http://avatitp.tumblr.com/post/130024196517/performing-participation-3-response)
+- Ishan: [Interfaces in Art](http://ishaanchaudhary.com/2015/09/28/interfaces-in-art/)
+- Nick: [Sound as social currency](http://www.ndhubbard.com/itp/participation-response-2/)
+- Song: [Thomas Hirschhorn’s Gramsci monument + Mindsets about the future](http://www.songhitp.com/?p=793)
+
+
+
+Discussion topics
+
+- Space
+- Community
+- Interface
+- Speech 
+
+Visiting lecture
+
+- [Christine Sun Kim](http://christinesunkim.com/) 
+- Denise Kahler-Braaten (ASL Interpreter)
+
+Recipe for Utopia
+
+- Read out recipes
+- Form a group of four or more 
+- Build a Utopia together by next week
+- Present a Utopia or documentation of it during class next week 
+
+Reference 
+
+- [Utopia Station](http://www.e-flux.com/projects/utopia/)
+	- [For a Functional Utopia, Liam Gillick ](http://www.liamgillick.info/home/texts/for-a-functional-utopia)
+	- [Interesting response](http://part-archive.finitude.org/part12/articles/harren.html)
+	- [Video](https://www.youtube.com/watch?v=Ww_RZ-PyYrc)
+- [The Open Utopia](http://theopenutopia.org/)
+
 
  
-**October 5**
+ 
+#Class 4: October 5
+
+
+Class 4
+
+Student responses 
+
+- Joanna: [Utopia](https://wp.nyu.edu/iamjoanna/2015/10/04/utopia/)
+- Bret: [The Multitude](http://www.brettstiller.com/itpblog/the-multitude)
+- Ava: [Create Utopia](http://www.imavahuang.com/?p=1246)
+- Kevin: [Performance of Utopia](http://www.itp.kevings.com/performance-of-utopia/)
+- Song: [Planning Utopia](http://www.songhitp.com/?p=806)
+- Natalia: [Performing an Utopia](http://www.nataliacabrera.com/itp/2015/10/03/performing-an-utopia/)
+- Nick : [Utopia: without choice](http://nickbratton.com/?p=1778)
+- Ishan: [Utopia: The Multitude](http://ishaanchaudhary.com/2015/10/04/utopia-the-multitude/)
+- Liu: [Be Suspicious of Utopia](http://blog.liuchangitp.com/thoughts-about-uptopia/)
+- Sergio: [Crafting Utopias](http://itp.smorad.com/2015/10/crafting-utopias/)
+- AV: [create an Utopia](http://avatitp.tumblr.com/post/130514218132/create-an-utopia)
+
+**Performance for Utopia**
+
+- Four groups presentation. Each group 10~15 minutes. Live happening or documentation.
+- Discussions about the performances, process and documentation. 
+
+![](https://c2.staticflickr.com/6/5715/21373305454_649e0da659_b.jpg)
+
+Food for thoughts. 
+
+- [World Game](https://en.wikipedia.org/wiki/World_Game)
+- [The Art of Management](http://avant.org/media/art-of-management)
+- [Welcome to Integration](http://www.nytimes.com/interactive/2014/08/20/style/tmagazine/welcome-to-the-integratron.html?_r=0)
+- [10 Failed Utopian Cities That Influenced the Future](http://io9.com/10-failed-utopian-cities-that-influenced-the-future-1511695279)
+
+**Lecture** 
+
+On this lecture, we will continue to think about participation and relation in contemporary art by focusing on two symbolic artists.  New topics for discussions include following themes. 
+
+- Body
+- Documentation
+- Re-enactment
+- Myth, mystery and hope 
+ 
+[Slides](https://speakerdeck.com/tchoi8/performing-participations-number-4)
+
+More reference
 
 - [Pierre Huyghe](http://www.metmuseum.org/exhibitions/listings/2015/pierre-huyghe) at the Met
 - Pierre Hughye [video](http://www.art21.org/artists/pierre-huyghe)
 - The Prospects of "Freed" Time [link](http://www.tandfonline.com/doi/full/10.1080/21502552.2013.818454)
 
-**Tues, Oct.13**
 
-**October 19** 
 
- Final Event (tbd) 
+#Class 5: Tues, Oct.13 
 
-*All class meets at Room 50 at ITP*
 
+###Student postings
+
+- [Changyeon](http://www.changyeonlee.com/performing-participation/2015/10/11/re-enactment-social-sculpture)
+- [AV](http://avatitp.tumblr.com/post/131060683377/why-explain-pictures-to-a-dead-hare)
+- [Joanna](https://wp.nyu.edu/iamjoanna/2015/10/13/constructed-reality/)
+- [Song](http://www.songhitp.com/?p=865)
+- [Ishaan](http://ishaanchaudhary.com/2015/10/12/nostalgia-of-the-body-a-reinterpretation/)
+- [Bret](http://www.brettstiller.com/itpblog/caminhando-the-walking)
+- [Ava](http://www.imavahuang.com/?p=1347)
+- [Kevin](http://www.itp.kevings.com/utopia-reflections-and-the-next-performance/)
+- [Nick](http://nickbratton.com/?p=1783)
+- [Cici](http://blog.liuchangitp.com/reification/)
+- [Yifan](http://yifantasy.com/?p=887)
+- Natalia 
+- Sergio
+
+###Assignment for Class 5 
+
+- Create a re-enactment or recreation of a work by Joseph Beuys or Lygia Clark. Research about their work and find a piece that inspires you. 
+- The piece needs to be presented in 10 minutes or shorter. 
+- The piece needs to be a solo work that is participatory.  
+- Make a blog posting about your re-enactment by Monday 6pm. You can complete the posting after the class with documentation. However, please send a posting with a plan by Monday for me to prepare to give feedback. 
+
+###Required readings. 
+
+- Lygia Clark and Hélio Oiticica Letters//1968–69  pg 110-116
+- Joseph Beuys and Dirk Schwarze Report on a Day’s Proceedings at the Bureau for Direct Democracy//1972 + Joseph Beuys, I am searching for field character pg 120-126  
+
+(from Participation edited by Claire Bishop, page numbers are from the book, not pdf) 
+
+- [The Boss](http://www.e-flux.com/journal/the-boss-on-the-unresolved-question-of-authority-in-joseph-beuys%E2%80%99-oeuvre-and-public-image/): On the Unresolved Question of Authority in Joseph Beuys’ Oeuvre and Public Image
+- [One of many](http://www.walkerart.org/collections/publications/art-expanded/one-of-many-joseph-beuys/) 
+- [From Painting to Therapeutic Practice](http://x-traonline.org/article/lygia-clark/): Conversation about Lygia Clark: The Abandonment of Art, 1948–1988
+- [The Re-enactment of Lygia Clark’s Baba Antropofágica (Anthropophagic Droo)](http://www.brooklynrail.org/2008/10/local/the-re-enactment-of-lygia-clarks-baba-antropofgica-anthropophagic-drool) 
+ 
+
+Re-enactment of Lygiak Clark or Joseph Beuys
+![](https://c2.staticflickr.com/6/5789/22204894531_31b640ddc0_b.jpg)
+
+#Class 6: October 19 
+
+
+[USER](http://attending.io/events/user) performance 
+  
+  
+  
+  
 ###Work in progress notes and links   
 
  
