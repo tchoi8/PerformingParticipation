@@ -280,7 +280,26 @@ Re-enactment of Lygiak Clark or Joseph Beuys
 
 
 [USER](http://attending.io/events/user) performance 
+
+###Final Letter
   
+It was very helpful to meet with many of you on Friday. Since this is such as short class, I think it's a challenge to cover material in depth and give enough feedback. This is something I wrote as part of closing remarks I will share tomorrow. I thought it would be better to share this now, to give you more context for the readings and also tomorrow's event. 
+
+Performing participation, New User. 
+
+There is rarely anything more surprising than finding yourself in the middle of performance art that engage with you, without your acknowledgement. The surprise may come in delight or as a displeasure when you become vulnerable subject of unwanted attention. 
+
+Much like performance art, design has found ‘Participation’ to be an effective approach for creating engaging products. Design as well as the technology industry adopted the term User as a role of person engaging with the product. You might decide to 'check out' from the technological world and leave in peace. However, it’s quiet inconvenient to avoid using technological objects all together. Voluntarily or reluctantly, we perform the role of User in everyday life. User is more than a temporary role one must play to take advantage of a system. It’s also an identity and social class.  
+
+Social media, for example, operates by the voluntary participation of the users. It's a human nature to want to share the joy of private life, express taste and interest and communicate in whatever means possible. Social media amplifies our desire to share. The convenience and instant gratification of ‘Likes’, make it irresistible to resist. However, it’s not a comfortable feeling when the corporations take advantage of my personal data without acknowledgement ([reading](http://www.nytimes.com/2015/09/21/business/media/retailers-use-of-their-fans-photos-draws-scrutiny.html?_r=0)). Much like the performance art that doesn’t ask for permission of participation, the corporations are taking user’s participation. It proves that your participation has a value, your attention to a product, or mediation through a product is valuable to the corporations.  
+
+Don Norman questions ([reading](http://jnd.org/dn.mss/words_matter_talk_about_people_not_customers_not_consumers_not_users.html)) “Artisan? Customer? Consumer? User? Wrangler? Biot? Each of these words is a way to degrade the people for whom we design, a way of labeling them as objects instead of personifying them as real living, breathing people.” I find it painfully ironic that Norman is criticizing the industry and the academic norm of using the word User, since he is responsible for the popularization of “User-centered design”. At any rate, the word User is in the mainstream consciousness and it won't go away for a while. 
+
+There is rarely anything more surprising than finding the museum empty of art works, but some museums are most beautiful without any art in it. Tino Sehgal's exhibtion at Guggenheim Museum was not devoid of art, rather it was full of art work. Other than human bodies in action, engaging with the visitors and telling stories, it was as object-less as possible. ([reading](http://www.nytimes.com/2010/02/01/arts/design/01tino.html)) The scripted conversation and improvisational engagement center around the concept of Progress. Where are we progressing now? 
+
+In this class, we've looked at and read about contemporary performance art practices. Art has transformed from material to virtual, political to aesthetic, antagonistic to agreeable (or friendlier), and back again. It's not so much of linear progression, but more like a constant feedback loop of transforming multiplicities. It's not really one trend or style that matters, it's the coexistence of art in different situations. In the end, what matters the most is if we can have a wider perspective for appreciating and 'using' art. The user, in this case, is not the user Don Norman claims that the word has come to mean, the passive, consumer, an anonymous body apt to become complicit to the larger body. The User of art is an active protagonist of the modern world, the one who use technology against the technical determinism, art against the aestheticization of commodity obsessed culture. The use of art is not only the pragmatic use of art work, it's more of an invitation to engage with the world artistically. 'Artistic' is the productive power of the aesthetic imagination, much like how the poetics is the productive power of language. ([reading](http://www.poetryfoundation.org/poetrymagazine/article/250614)) Art can be the new weapon (the new weapon Deleuze mentioned in the Postscript for society of Control and did not define) to create sustainable microtopia (maybe a dinner table with Bourriaud and Bishop cheerfully arguing over some hearty soup). 
+
+
   
   
   
