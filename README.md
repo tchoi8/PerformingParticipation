@@ -299,6 +299,19 @@ There is rarely anything more surprising than finding the museum empty of art wo
 
 In this class, we've looked at and read about contemporary performance art practices. Art has transformed from material to virtual, political to aesthetic, antagonistic to agreeable (or friendlier), and back again. It's not so much of linear progression, but more like a constant feedback loop of transforming multiplicities. It's not really one trend or style that matters, it's the coexistence of art in different situations. In the end, what matters the most is if we can have a wider perspective for appreciating and 'using' art. The user, in this case, is not the user Don Norman claims that the word has come to mean, the passive, consumer, an anonymous body apt to become complicit to the larger body. The User of art is an active protagonist of the modern world, the one who use technology against the technical determinism, art against the aestheticization of commodity obsessed culture. The use of art is not only the pragmatic use of art work, it's more of an invitation to engage with the world artistically. 'Artistic' is the productive power of the aesthetic imagination, much like how the poetics is the productive power of language. ([reading](http://www.poetryfoundation.org/poetrymagazine/article/250614)) Art can be the new weapon (the new weapon Deleuze mentioned in the Postscript for society of Control and did not define) to create sustainable microtopia (maybe a dinner table with Bourriaud and Bishop cheerfully arguing over some hearty soup). 
 
+![](https://c2.staticflickr.com/6/5669/22333416455_f5d3822c8f_b.jpg)
+![](https://c1.staticflickr.com/1/625/22145379060_9394251b98_b.jpg)
+
+#Final letter
+
+
+I mentioned this in the after party, but I will write it to share with everyone. I try very hard to teach only the classes that I can learn as much as I teach (or share). I believe reciprocal relationship is the best pedagogic approach. This class was a great learning experience for me. I tried out many ideas, shared what I'm most passionate about and got to know you. I believe what we are seeking might be unlearnable and this 6 meetings are just the beginning of our work together to demystify it. 
+
+Your blog postings were insightful, honest and critical. I apologize I couldn't respond to each posting, but I will try to give feedback to the final posting for sure. Writing is an exercise in thinking, a conversation with yourself past and future. Your postings are the traces of your growth in the program, in presence of other students. 
+
+I'm a firm believer in the transformative power of art. Open art begins with an invitation. Invitation leads to encounter. Encounter leads to conversations. Conversations leads to community. Community creates solidarity. Solidarity builds trust. Trust is generosity. And generosity is the medium of open art. 
+
+Coming up, don't miss performance art festival [Performa](http://15.performa-arts.org/) in november and [Creative Time Summit](http://creativetime.org/summit/)  these two events will be a chance for you to experience first hand, some of the most cutting edge experiments in art and performance/ social practice. 
 
   
   
